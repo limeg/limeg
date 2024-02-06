@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Larissa 😄! <br/></h1>
+<h1>Hi there, I'm Larissa 😃! <br/></h1>
 
-<h2>My Cybersecurity Projects💻:</h2>
+<h2>Main Quests (InfoSec) 💻:</h2>
 
 - <b>Active Directory Lab</b>
 - <b>SIEM (Azure)</b>
@@ -9,7 +9,7 @@
 
 <h2>Certifications 🏆</h2> 
 
-<h2> 🤳 Let's connect!</h2>
+<h2> 🤝 Let's connect!</h2>
 
 <br/>
 
