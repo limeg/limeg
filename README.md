@@ -22,7 +22,7 @@
 
 ## [Current Quests] 
 - MDFIR 30 Day Soc Analyst challenge
-   👉 https://medium.com/@li.megbuna
+- 👉 https://medium.com/@li.megbuna
 - Azure SOC
 - Cybersecurity Course by Josh Madakor
 
