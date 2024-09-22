@@ -1,4 +1,4 @@
-<h1> Hello, I'm Larissa 😃!</h1>
+<h1> Hello, I'm Larissa!</h1>
 
 [LinkedIn](https://www.linkedin.com/in/larissa-m-egbuna)
 
@@ -12,7 +12,7 @@
 
 - **CompTIA Security+**
 
-- **ISC2 Cybersecurity Training**
+- **ISC2 Cybersecurity Certification of completion**
 
 - **Crest Consulting Group Cyber Security Training**
  
@@ -21,15 +21,16 @@
 
 
 ## [Current Quests] 
+- MDFIR 30 Day Soc Analyst challenge
+   👉 https://medium.com/@li.megbuna
 - Azure SOC
 - Cybersecurity Course by Josh Madakor
 
 
 ## [Main Quests] 
+-
 
 ## [Side Quests]
-
-- BIOS Adventure
 - **TryHackMe Completed Rooms**
   - **Splunk: Basics, 2, 3**
     
