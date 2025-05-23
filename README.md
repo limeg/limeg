@@ -34,9 +34,10 @@ Wazuh | Splunk | NTOPNG | Python | Jira | Wireshark | AWS | Azure AD | HTML/CSS 
 ## [Main Quests] 
 - Testing tools on my home lab set-up
 
-## [Side Quests]
+## [Side Quests Completed]
 - **TryHackMe Completed Rooms**
   - **Splunk: Basics, 2, 3**
+- **30 Day Soc challenge 
 
 ## 🤝 Why I'm a Great Hire
 - SIEM expertise with a human touch
