@@ -13,13 +13,13 @@
 
 ## 🌿 Outside the Terminal
 When I'm offline, I'm probably:
-- 🎮 Playing cozy games (Currently on my minecraft 2 weeks phase ahah)
+- 🎮 Playing cozy games (Currently overcoming my fears of spiders through Grounded)
 - 🎧 Listening to suspense audiobooks
 - 🌀 Deep in a new hyperfixation
 
 ## 💻 Tech Toolkit
 
-Wazuh | Splunk | NTOPNG | Python | Jira | Wireshark | AWS | Azure AD | HTML/CSS | MITRE ATT&CK | NIST 
+Wazuh | Splunk | NTOPNG | Python | Jira | Wireshark | AWS | Azure AD | MITRE ATT&CK | NIST | LimaCharlie | Tines | HTML/CSS |
 
 ## [Certifications]
 
