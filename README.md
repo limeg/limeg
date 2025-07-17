@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@li.megbuna)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-Larissa-1fb2ca46461680d18b07c3d20a07fecf?pvs=4)
 
-## [Whoami]
+## `Whoami`
 
 🛡️ In the SOC, I'm the analyst who:
 - **Translates chaos into clarity** – Wazuh/Splunk logs whisper their secrets to me (especially when mapped to MITRE ATT&CK)
@@ -21,12 +21,12 @@ When I'm offline, I'm probably:
 
 Wazuh | Splunk | NTOPNG | Python | Jira | Wireshark | AWS | Azure AD | MITRE ATT&CK | NIST | LimaCharlie | Tines | HTML/CSS |
 
-## [Certifications]
+## Certifications
 
 - **CompTIA Security+**
 - **ISC2 Certified in Cybersecurity (CC)**
 
-## [Main Quests] 
+## Main Quests
 - Testing tools on my home lab set-up
 
 ## 🤝 Why I'm a Great Hire
