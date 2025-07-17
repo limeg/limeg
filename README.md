@@ -26,18 +26,8 @@ Wazuh | Splunk | NTOPNG | Python | Jira | Wireshark | AWS | Azure AD | MITRE ATT
 - **CompTIA Security+**
 - **ISC2 Certified in Cybersecurity (CC)**
 
-## [Current Quests] 
-- Deep dive on Python automization
-- AWS 
-
-
 ## [Main Quests] 
 - Testing tools on my home lab set-up
-
-## [Side Quests Completed]
-- **TryHackMe Completed Rooms**
-  - **Splunk: Basics, 2, 3**
-- **30 Day Soc challenge**
 
 ## 🤝 Why I'm a Great Hire
 - SIEM expertise with a human touch
